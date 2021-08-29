@@ -2,10 +2,12 @@ const router = require('express').Router();
 const notes = require('../../db/db');
 const { createNote, removeNote, validateNote } = require('../../lib/notes');
 
+// API response for GET methods on notes endpoint
 router.get('/notes', (req, res) => {
     res.json(notes);
 });
 
+// API response for POST methods on notes endpoint
 router.post('/notes', (req, res) => {
     if(validateNote(req.body)) {
         const note = createNote(notes, req.body);
@@ -15,6 +17,7 @@ router.post('/notes', (req, res) => {
         res.status(400).send('The note is not properly formatted!');
 });
 
+// API response for DELETE methods on notes endpoint
 router.delete('/notes/:id', (req, res) => {
     const result = removeNote(notes, req.params.id);
 
