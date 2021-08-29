@@ -1,62 +1,7 @@
 [
   {
-    "id": 0,
-    "title": "Test Title",
-    "text": "Test text"
-  },
-  {
-    "id": 2,
-    "title": "sdf",
-    "text": "sdf"
-  },
-  {
-    "id": 3,
-    "title": "fsdf",
-    "text": "sdfsdf"
-  },
-  {
-    "id": 4,
-    "title": "hello world",
-    "text": "foobar"
-  },
-  {
-    "id": 5,
-    "title": "fsdf",
-    "text": "sdfsdf"
-  },
-  {
-    "id": 6,
-    "title": "fsdf",
-    "text": "sdf"
-  },
-  {
-    "id": 7,
-    "title": "fsdf",
-    "text": "sdf"
-  },
-  {
-    "id": 8,
-    "title": "fsdf",
-    "text": "sdf"
-  },
-  {
-    "id": 9,
-    "title": "sdf",
-    "text": "sdf"
-  },
-  {
-    "id": 10,
-    "title": "sdf",
-    "text": "sdf"
-  },
-  {
-    "id": 11,
-    "title": "fsdf",
-    "text": "sdfwer"
-  },
-  {
-    "id": 12,
-    "title": "234",
-    "text": "235235235"
+    "id": "c18325ed7f6a9f1fb9bee8a97e12747c",
+    "title": "Create test note",
+    "text": "This is a test note."
   }
 ]
