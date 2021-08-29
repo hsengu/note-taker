@@ -15,7 +15,7 @@
 ## Description
 This project is a Node.js application and Express.js server that runs a note taking application. You will have the ability to add, edit, and delete notes that will persist across sessions. The application currently only supports a single global user.
 
-See a preview of this application in action [here]().
+See a preview of this application in action [here](https://agile-fortress-70071.herokuapp.com/notes).
 
 ## Built With
 - Node.js
@@ -31,8 +31,9 @@ See a preview of this application in action [here]().
 ## Usage
 	npm start
 
-## Screenshot
+## Screenshots
 ![Screenshot](./assets/Screenshots/Screenshot.jpg)
+![Screenshot](./assets/Screenshots/Screenshot_2.jpg)
 
 ## Contributing to Note Taker
 Please follow contribution guidelines at the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to contribute to Readme Generator.
