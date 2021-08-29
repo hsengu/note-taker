@@ -7,12 +7,12 @@ router.get('/notes', (req, res) => {
 });
 
 router.post('/notes', (req, res) => {
-    console.log(notes);
-    console.log(req.body);
-    if(validateNote(req.body))
-        createNote(notes, req.body);
+    if(validateNote(req.body)) {
+        const note = createNote(notes, req.body);
+        res.json(note);
+    }
     else
-        console.log("Not a valid note.");
+        res.status(400).send('The note is not properly formatted!');
 });
 
 module.exports = router;
