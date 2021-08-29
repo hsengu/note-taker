@@ -15,7 +15,7 @@
 ## Description
 This project is a Node.js application and Express.js server that runs a note taking application. You will have the ability to add, edit, and delete notes that will persist across sessions. The application currently only supports a single global user.
 
-See a preview of this application in action [here](https://drive.google.com/file/d/1p-C6sNkn8U5RVqPYREYDdxFSt_PmO2xr/view?usp=sharing).
+See a preview of this application in action [here]().
 
 ## Built With
 - Node.js
