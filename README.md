@@ -36,7 +36,7 @@ See a preview of this application in action [here](https://agile-fortress-70071.
 ![Screenshot](./assets/Screenshots/Screenshot_2.jpg)
 
 ## Contributing to Note Taker
-Please follow contribution guidelines at the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to contribute to Readme Generator.
+Please follow contribution guidelines at the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to contribute to Note Taker.
 
 ## Tests
     This application was tested using Jest running under Ubuntu 20.04 LTS on WSL2. YMMV.
